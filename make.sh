@@ -2,9 +2,4 @@
 cat settings.ini beacons.ini > Game.ini
 
 # Prettify custom_beacons.beacons and store in beacons.json
-beacon_data=`cat custom.beacon`
-curl --request POST \
-  --url https://jsonformatter.curiousconcept.com/process \
-  --header 'content-type: application/x-www-form-urlencoded' \
-  --data 'jsontemplate=1&jsondata='"$beacon_data" \
-  | python3 -c 'import sys, json; print(json.load(sys.stdin)["result"]["jsoncopy"])' > beacons.json
+python3 -c 'import sys, json; open("beacons.json", "w").write(json.dumps(json.loads(open("custom.beacon").read()),indent=2))'
