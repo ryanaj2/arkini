@@ -7484,7 +7484,7 @@
           "MaxNumItems": 3,
           "MinNumItems": 1,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.015
+          "SetWeight": 0.2
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -7620,7 +7620,7 @@
           "MaxNumItems": 4,
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.04
+          "SetWeight": 0.1
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -7702,7 +7702,7 @@
           "MaxNumItems": 3,
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.075
+          "SetWeight": 0.15
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -7768,7 +7768,7 @@
           "MaxNumItems": 5,
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.6
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -7784,7 +7784,7 @@
               ],
               "MaxQuality": "Tier6",
               "MaxQuantity": 1,
-              "MinQuality": "Tier4",
+              "MinQuality": "Tier5",
               "MinQuantity": 1
             },
             {
@@ -7806,7 +7806,7 @@
           "MaxNumItems": 2,
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.11
+          "SetWeight": 0.2
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -7858,7 +7858,7 @@
           "MaxNumItems": 3,
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.1
+          "SetWeight": 0.2
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -7952,7 +7952,7 @@
           "MaxNumItems": 6,
           "MinNumItems": 6,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.3
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -8018,7 +8018,7 @@
           "MaxNumItems": 4,
           "MinNumItems": 4,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.2
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -8050,27 +8050,13 @@
               "MaxQuantity": 1,
               "MinQuality": "Tier6",
               "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItem_WeaponSickle_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier7",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier6",
-              "MinQuantity": 1
             }
           ],
           "Label": "Tools",
           "MaxNumItems": 2,
           "MinNumItems": 1,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.3,
+          "SetWeight": 0.5,
           "SourcePresetID": "bdaf8938-e0ef-49a9-8aee-8e9cc4f0b4e8"
         }
       ],
