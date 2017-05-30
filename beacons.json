@@ -7282,6 +7282,34 @@
               "MaxQuantity": 1,
               "MinQuality": "Tier3",
               "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItem_WeaponHarpoon_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier2",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemAmmo_BallistaArrow_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 10,
+              "MinQuality": "Tier2",
+              "MinQuantity": 10
             }
           ],
           "Label": "Basic Scuba",
