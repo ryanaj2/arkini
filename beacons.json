@@ -5190,7 +5190,7 @@
           "MaxNumItems": 5,
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.11
+          "SetWeight": 0.25
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -5253,7 +5253,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.5,
+              "EntryWeight": 1.0,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Silicon_C",
@@ -5281,7 +5281,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.5,
+              "EntryWeight": 1.0,
               "Items": [
                 {
                   "Class": "PrimalItemResource_ChitinPaste_C",
@@ -5390,13 +5390,27 @@
               "MaxQuantity": 100,
               "MinQuality": "Tier1",
               "MinQuantity": 50
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.1,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemResource_Polymer_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 20,
+              "MinQuality": "Tier1",
+              "MinQuantity": 10
             }
           ],
           "Label": "Materials",
-          "MaxNumItems": 5,
-          "MinNumItems": 3,
+          "MaxNumItems": 6,
+          "MinNumItems": 5,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.6
+          "SetWeight": 0.65
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -5580,210 +5594,6 @@
           "bItemsRandomWithoutReplacement": true,
           "ItemEntries": [
             {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.42,
-              "Items": [
-                {
-                  "Class": "PrimalItemDye_Red_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Green_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Blue_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Yellow_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Purple_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Orange_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Black_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_White_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Brown_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Cyan_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Forest_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Parchment_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Pink_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Royalty_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Silver_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Sky_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Tan_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Tangerine_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_ActuallyMagenta_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Brick_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Cantaloupe_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Mud_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Navy_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Olive_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemDye_Slate_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 20,
-              "MinQuality": "Tier1",
-              "MinQuantity": 6
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.8,
-              "EntryWeight": 0.12,
-              "Items": [
-                {
-                  "Class": "PrimalItem_WeaponPaintbrush_C",
-                  "Weight": 0.7
-                },
-                {
-                  "Class": "PrimalItem_WeaponSprayPaint_C",
-                  "Weight": 0.3
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            }
-          ],
-          "Label": "Dyes",
-          "MaxNumItems": 2,
-          "MinNumItems": 2,
-          "NumItemsPower": 1.0,
-          "SetWeight": 0.21
-        },
-        {
-          "bItemsRandomWithoutReplacement": true,
-          "ItemEntries": [
-            {
-              "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_PteroSaddle_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier4",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_AnkyloSaddle_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier4",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_DoedSaddle_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier4",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_ArgentavisSaddle_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier4",
-              "MinQuantity": 1
-            }
-          ],
-          "Label": "Saddles",
-          "MaxNumItems": 3,
-          "MinNumItems": 1,
-          "NumItemsPower": 1.0,
-          "SetWeight": 0.08
-        },
-        {
-          "bItemsRandomWithoutReplacement": true,
-          "ItemEntries": [
-            {
               "ChanceToBeBlueprintOverride": 0.41,
               "EntryWeight": 1.0,
               "Items": [
@@ -5858,7 +5668,7 @@
           "MaxNumItems": 5,
           "MinNumItems": 3,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.2
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -5924,7 +5734,7 @@
           "MaxNumItems": 4,
           "MinNumItems": 3,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.4
         },
         {
           "bItemsRandomWithoutReplacement": false,
@@ -5945,7 +5755,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.48,
               "Items": [
                 {
                   "Class": "PrimalItemConsumable_CactusBuffSoup_C",
@@ -5973,7 +5783,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.48,
               "Items": [
                 {
                   "Class": "PrimalItemConsumable_CactusSap_C",
@@ -5987,7 +5797,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.48,
               "Items": [
                 {
                   "Class": "PrimalItemConsumable_Soup_CalienSoup_C",
@@ -6001,7 +5811,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.48,
               "Items": [
                 {
                   "Class": "PrimalItemConsumable_Soup_EnduroStew_C",
@@ -6015,7 +5825,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.48,
               "Items": [
                 {
                   "Class": "PrimalItemConsumable_StaminaSoup_C",
@@ -6029,7 +5839,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.48,
               "Items": [
                 {
                   "Class": "PrimalItemConsumable_Soup_FocalChili_C",
@@ -6043,7 +5853,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.48,
               "Items": [
                 {
                   "Class": "PrimalItemConsumable_Soup_FriaCurry_C",
@@ -6057,7 +5867,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.48,
               "Items": [
                 {
                   "Class": "PrimalItemConsumable_CureLow_C",
@@ -6071,7 +5881,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.48,
               "Items": [
                 {
                   "Class": "PrimalItemConsumable_Soup_ShadowSteak_C",
@@ -6088,7 +5898,7 @@
           "MaxNumItems": 5,
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.2
+          "SetWeight": 0.3
         }
       ],
       "Kind": "Standard",
