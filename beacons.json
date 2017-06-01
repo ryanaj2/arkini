@@ -6111,7 +6111,7 @@
           "ItemEntries": [
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.71,
               "Items": [
                 {
                   "Class": "PrimalItemConsumable_Kibble_DiloEgg_C",
@@ -6119,9 +6119,9 @@
                 }
               ],
               "MaxQuality": "Tier3",
-              "MaxQuantity": 20,
+              "MaxQuantity": 10,
               "MinQuality": "Tier3",
-              "MinQuantity": 10
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -6139,7 +6139,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.3,
+              "EntryWeight": 0.19,
               "Items": [
                 {
                   "Class": "PrimalItemConsumable_Kibble_MicroraptorEgg_C",
@@ -6147,16 +6147,16 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 15,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 10
+              "MinQuantity": 5
             }
           ],
           "Label": "Kibble",
           "MaxNumItems": 2,
-          "MinNumItems": 2,
+          "MinNumItems": 1,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.3
+          "SetWeight": 0.6
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -6226,7 +6226,7 @@
           "MaxNumItems": 4,
           "MinNumItems": 3,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.3
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -6292,7 +6292,7 @@
           "MaxNumItems": 2,
           "MinNumItems": 1,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.2
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -6316,7 +6316,7 @@
           "MaxNumItems": 1,
           "MinNumItems": 1,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.02
+          "SetWeight": 0.01
         }
       ],
       "Kind": "Bonus",
