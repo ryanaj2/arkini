@@ -3194,7 +3194,7 @@
           "MaxNumItems": 3,
           "MinNumItems": 3,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.3
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -3209,9 +3209,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 15,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 10
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -3223,9 +3223,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 30,
+              "MaxQuantity": 15,
               "MinQuality": "Tier1",
-              "MinQuantity": 20
+              "MinQuantity": 10
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -3237,9 +3237,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 15,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 10
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -3251,16 +3251,16 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 30,
+              "MaxQuantity": 15,
               "MinQuality": "Tier1",
-              "MinQuantity": 20
+              "MinQuantity": 10
             }
           ],
           "Label": "Kibble",
           "MaxNumItems": 3,
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.3
+          "SetWeight": 0.6
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -3276,7 +3276,7 @@
               ],
               "MaxQuality": "Tier6",
               "MaxQuantity": 1,
-              "MinQuality": "Tier4",
+              "MinQuality": "Tier5",
               "MinQuantity": 1
             },
             {
@@ -3290,7 +3290,7 @@
               ],
               "MaxQuality": "Tier6",
               "MaxQuantity": 1,
-              "MinQuality": "Tier4",
+              "MinQuality": "Tier5",
               "MinQuantity": 1
             },
             {
@@ -3304,7 +3304,7 @@
               ],
               "MaxQuality": "Tier6",
               "MaxQuantity": 1,
-              "MinQuality": "Tier4",
+              "MinQuality": "Tier5",
               "MinQuantity": 1
             },
             {
@@ -3318,7 +3318,7 @@
               ],
               "MaxQuality": "Tier6",
               "MaxQuantity": 1,
-              "MinQuality": "Tier4",
+              "MinQuality": "Tier5",
               "MinQuantity": 1
             },
             {
@@ -3332,7 +3332,7 @@
               ],
               "MaxQuality": "Tier6",
               "MaxQuantity": 1,
-              "MinQuality": "Tier4",
+              "MinQuality": "Tier5",
               "MinQuantity": 1
             }
           ],
@@ -3340,7 +3340,7 @@
           "MaxNumItems": 3,
           "MinNumItems": 1,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.2
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -3420,7 +3420,7 @@
           "MaxNumItems": 5,
           "MinNumItems": 5,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.06
+          "SetWeight": 0.05
         }
       ],
       "Kind": "Bonus",
@@ -4699,9 +4699,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 20,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 15
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -4713,9 +4713,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 20,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 15
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -4727,9 +4727,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 20,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 15
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -4741,9 +4741,9 @@
                 }
               ],
               "MaxQuality": "Tier3",
-              "MaxQuantity": 20,
+              "MaxQuantity": 10,
               "MinQuality": "Tier3",
-              "MinQuantity": 15
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -4755,9 +4755,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 20,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 15
+              "MinQuantity": 5
             }
           ],
           "Label": "Kibble",
@@ -8010,8 +8010,8 @@
             }
           ],
           "Label": "Consumables",
-          "MaxNumItems": 2,
-          "MinNumItems": 1,
+          "MaxNumItems": 4,
+          "MinNumItems": 3,
           "NumItemsPower": 1.0,
           "SetWeight": 0.2
         },
@@ -8093,7 +8093,7 @@
           "MaxNumItems": 5,
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.1
+          "SetWeight": 0.2
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -8173,14 +8173,14 @@
           "MaxNumItems": 5,
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.1
+          "SetWeight": 0.08
         },
         {
           "bItemsRandomWithoutReplacement": true,
           "ItemEntries": [
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.3,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Hide_C",
@@ -8194,7 +8194,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.3,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Chitin_C",
@@ -8208,7 +8208,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.3,
               "Items": [
                 {
                   "Class": "PrimalItemConsumable_Fertilizer_Compost_C",
@@ -8222,7 +8222,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.3,
               "Items": [
                 {
                   "Class": "PrimalItemResource_MetalIngot_C",
@@ -8236,7 +8236,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.3,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Crystal_C",
@@ -8250,7 +8250,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.3,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Obsidian_C",
@@ -8278,7 +8278,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.3,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Oil_C",
@@ -8306,7 +8306,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.3,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Keratin_C",
@@ -8320,7 +8320,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.3,
               "Items": [
                 {
                   "Class": "PrimalItemResource_RareMushroom_C",
@@ -8334,7 +8334,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.3,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Pelt_C",
@@ -8348,7 +8348,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.3,
               "Items": [
                 {
                   "Class": "PrimalItemResource_LeechBlood_C",
@@ -8362,7 +8362,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.3,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Sap_C",
@@ -8376,7 +8376,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.3,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Horn_C",
@@ -8390,7 +8390,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.3,
               "Items": [
                 {
                   "Class": "PrimalItemResource_RareFlower_C",
@@ -8401,6 +8401,20 @@
               "MaxQuantity": 20,
               "MinQuality": "Tier1",
               "MinQuantity": 10
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemResource_Polymer_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 30,
+              "MinQuality": "Tier1",
+              "MinQuantity": 15
             }
           ],
           "Label": "Materials",
@@ -8499,7 +8513,7 @@
           "MaxNumItems": 2,
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.1,
+          "SetWeight": 0.2,
           "SourcePresetID": "2d5881a8-25d9-40a7-96a8-5e5b234b52e0"
         },
         {
@@ -8538,7 +8552,7 @@
           "MaxNumItems": 2,
           "MinNumItems": 1,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.4,
+          "SetWeight": 0.13,
           "SourcePresetID": "2d5881a8-25d9-40a7-96a8-5e5b234b52e0"
         },
         {
