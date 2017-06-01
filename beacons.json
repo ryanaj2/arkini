@@ -1350,7 +1350,7 @@
           "MaxNumItems": 15,
           "MinNumItems": 10,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.06
+          "SetWeight": 0.08
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -1396,13 +1396,41 @@
               "MaxQuantity": 1,
               "MinQuality": "Tier6",
               "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemResource_AnglerGel_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 32,
+              "MinQuality": "Tier1",
+              "MinQuantity": 32
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItem_WeaponProd_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
             }
           ],
           "Label": "Knockout",
           "MaxNumItems": 3,
-          "MinNumItems": 1,
+          "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.3
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -1507,10 +1535,10 @@
             }
           ],
           "Label": "Saddles",
-          "MaxNumItems": 5,
+          "MaxNumItems": 3,
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.2
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -1525,9 +1553,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 20,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 15
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -1539,9 +1567,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 20,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 15
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -1553,9 +1581,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 20,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 15
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -1567,9 +1595,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 20,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 15
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -1581,9 +1609,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 20,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 15
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -1595,16 +1623,16 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 20,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 15
+              "MinQuantity": 5
             }
           ],
           "Label": "Kibble",
           "MaxNumItems": 4,
-          "MinNumItems": 2,
+          "MinNumItems": 3,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.6
         }
       ],
       "Kind": "Bonus",
@@ -1787,7 +1815,7 @@
           "ItemEntries": [
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Hide_C",
@@ -1801,7 +1829,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Chitin_C",
@@ -1815,7 +1843,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemConsumable_Fertilizer_Compost_C",
@@ -1829,7 +1857,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemResource_MetalIngot_C",
@@ -1843,7 +1871,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Crystal_C",
@@ -1857,7 +1885,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Obsidian_C",
@@ -1885,7 +1913,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Oil_C",
@@ -1913,7 +1941,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Keratin_C",
@@ -1927,7 +1955,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemResource_RareFlower_C",
@@ -1941,7 +1969,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemResource_RareMushroom_C",
@@ -1955,7 +1983,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemConsumableMiracleGro_C",
@@ -1969,7 +1997,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Pelt_C",
@@ -1983,7 +2011,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemResource_LeechBlood_C",
@@ -1997,7 +2025,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Sap_C",
@@ -2011,7 +2039,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Horn_C",
@@ -2025,7 +2053,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemResource_AnglerGel_C",
@@ -2067,7 +2095,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.35,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Polymer_Organic_C",
@@ -2098,7 +2126,7 @@
           "MaxNumItems": 6,
           "MinNumItems": 4,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.3,
+          "SetWeight": 0.44,
           "SourcePresetID": "1abe6864-dabf-4b5c-b0a0-cb79cfdd17ba"
         },
         {
@@ -2133,11 +2161,11 @@
               "MinQuantity": 1
             }
           ],
-          "Label": "Advanced Tools",
+          "Label": "Tools+",
           "MaxNumItems": 1,
           "MinNumItems": 1,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.1,
+          "SetWeight": 0.11,
           "SourcePresetID": "bdaf8938-e0ef-49a9-8aee-8e9cc4f0b4e8"
         },
         {
@@ -2228,51 +2256,13 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemStructure_Furniture_Gravestone_C",
+                  "Class": "PrimalItem_WeaponMetalHatchet_C",
                   "Weight": 1.0
                 }
               ],
-              "MaxQuality": "Tier6",
+              "MaxQuality": "Tier7",
               "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            }
-          ],
-          "Label": "Death",
-          "MaxNumItems": 1,
-          "MinNumItems": 1,
-          "NumItemsPower": 1.0,
-          "SetWeight": 0.01
-        },
-        {
-          "bItemsRandomWithoutReplacement": true,
-          "ItemEntries": [
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemAmmo_GrapplingHook_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 20,
-              "MinQuality": "Tier1",
-              "MinQuantity": 10
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemWeaponAttachment_Flashlight_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
+              "MinQuality": "Tier6",
               "MinQuantity": 1
             },
             {
@@ -2280,41 +2270,13 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemWeaponAttachment_Laser_C",
+                  "Class": "PrimalItem_WeaponMetalPick_C",
                   "Weight": 1.0
                 }
               ],
-              "MaxQuality": "Tier6",
+              "MaxQuality": "Tier7",
               "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemAmmo_AggroTranqDart_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 10,
-              "MinQuality": "Tier1",
-              "MinQuantity": 5
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemWeaponAttachment_Silencer_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
+              "MinQuality": "Tier6",
               "MinQuantity": 1
             }
           ],
@@ -2821,10 +2783,10 @@
             }
           ],
           "Label": "Skins",
-          "MaxNumItems": 5,
-          "MinNumItems": 2,
+          "MaxNumItems": 2,
+          "MinNumItems": 1,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.18
+          "SetWeight": 0.1
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -2910,44 +2872,6 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItem_WeaponProd_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemResource_AnglerGel_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 32,
-              "MinQuality": "Tier1",
-              "MinQuantity": 32
-            }
-          ],
-          "Label": "Shocking",
-          "MaxNumItems": 2,
-          "MinNumItems": 2,
-          "NumItemsPower": 1.0,
-          "SetWeight": 0.06
-        },
-        {
-          "bItemsRandomWithoutReplacement": true,
-          "ItemEntries": [
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
                   "Class": "PrimalItemResource_Gasoline_C",
                   "Weight": 1.0
                 }
@@ -3018,20 +2942,6 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemConsumable_CureLow_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 4,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
                   "Class": "PrimalItem_WeaponLance_C",
                   "Weight": 1.0
                 }
@@ -3054,27 +2964,13 @@
               "MaxQuantity": 40,
               "MinQuality": "Tier1",
               "MinQuantity": 20
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemResource_Sparkpowder_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 400,
-              "MinQuality": "Tier1",
-              "MinQuantity": 200
             }
           ],
-          "Label": "Advanced Materials",
-          "MaxNumItems": 3,
-          "MinNumItems": 1,
+          "Label": "Materials+",
+          "MaxNumItems": 4,
+          "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.1
+          "SetWeight": 0.34
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -3112,7 +3008,7 @@
           "MaxNumItems": 3,
           "MinNumItems": 1,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.2
+          "SetWeight": 0.4
         }
       ],
       "Kind": "Standard",
