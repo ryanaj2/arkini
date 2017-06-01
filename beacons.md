@@ -28,20 +28,20 @@ The types of materials, equipment and items will vary depending on the level of 
 
 __Normal Beacons__
 
-| Type | Weight | # of Items |
-| ---  | ---:   | ---
-| Materials | 60 | 3-6 of 10+
-| Tools | 50 | 2-3 of 5+
-| Consumables | 30 | 3-4 of 10+
-| Armor | 30 | 5 of 5 (whole set)
-| Weapons | 20 | 2 of 3+
-| Cosmetic | 10 | All dyes or single costume
+| Type         |  Weight  |  # of Items |
+| ---          |  ---:    |  ---
+| Materials    |  65      |  5-6 of 10+
+| Tools        |  40      |  2-3 of 5+
+| Consumables  |  30      |  2-4 of 10+
+| Armor        |  25      |  5 of 5 (whole set)
+| Weapons      |  20      |  2 of 3+
+| Cosmetic     |  10      |  All dyes or single costume
 
 __Bonus Beacons__
 
 | Type      |  Weight  |  # of Items |
 | ---       |  ---:    |  ---
-| Kibble    |  20      |  1-2 types, 5-10 of each
+| Kibble    |  40      |  1-2 types, 5-10 of each
 | Knockout  |  30      |  whole set, level-specific quantity
 | Saddles   |  30      |  1-2 types, one of each
 | Minigame  |  5       |  whole set
