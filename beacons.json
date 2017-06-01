@@ -4785,10 +4785,10 @@
             }
           ],
           "Label": "Kibble",
-          "MaxNumItems": 3,
-          "MinNumItems": 2,
+          "MaxNumItems": 2,
+          "MinNumItems": 1,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.3
+          "SetWeight": 0.6
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -4840,7 +4840,7 @@
           "MaxNumItems": 3,
           "MinNumItems": 3,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.1
+          "SetWeight": 0.05
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -4934,7 +4934,7 @@
           "MaxNumItems": 3,
           "MinNumItems": 1,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.2
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -5018,7 +5018,7 @@
           "MaxNumItems": 5,
           "MinNumItems": 3,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.3
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -5042,7 +5042,7 @@
           "MaxNumItems": 1,
           "MinNumItems": 1,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.04
+          "SetWeight": 0.01
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -5094,7 +5094,7 @@
           "MaxNumItems": 4,
           "MinNumItems": 3,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.1
+          "SetWeight": 0.05
         }
       ],
       "Kind": "Bonus",
