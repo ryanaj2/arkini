@@ -3451,9 +3451,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 15,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 10
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -3465,9 +3465,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 15,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 10
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -3479,9 +3479,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 15,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 10
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -3493,9 +3493,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 15,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 10
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -3507,9 +3507,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 15,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 10
+              "MinQuantity": 5
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -3521,16 +3521,16 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 25,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 15
+              "MinQuantity": 5
             }
           ],
           "Label": "Kibble",
           "MaxNumItems": 3,
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.3
+          "SetWeight": 0.6
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -3612,7 +3612,7 @@
               ],
               "MaxQuality": "Tier6",
               "MaxQuantity": 1,
-              "MinQuality": "Tier3",
+              "MinQuality": "Tier5",
               "MinQuantity": 1
             },
             {
@@ -3626,7 +3626,7 @@
               ],
               "MaxQuality": "Tier6",
               "MaxQuantity": 1,
-              "MinQuality": "Tier3",
+              "MinQuality": "Tier5",
               "MinQuantity": 1
             },
             {
@@ -3640,7 +3640,7 @@
               ],
               "MaxQuality": "Tier6",
               "MaxQuantity": 1,
-              "MinQuality": "Tier3",
+              "MinQuality": "Tier5",
               "MinQuantity": 1
             },
             {
@@ -3654,7 +3654,7 @@
               ],
               "MaxQuality": "Tier6",
               "MaxQuantity": 1,
-              "MinQuality": "Tier3",
+              "MinQuality": "Tier5",
               "MinQuantity": 1
             },
             {
@@ -3668,7 +3668,7 @@
               ],
               "MaxQuality": "Tier6",
               "MaxQuantity": 1,
-              "MinQuality": "Tier3",
+              "MinQuality": "Tier5",
               "MinQuantity": 1
             },
             {
@@ -3682,7 +3682,7 @@
               ],
               "MaxQuality": "Tier6",
               "MaxQuantity": 1,
-              "MinQuality": "Tier3",
+              "MinQuality": "Tier5",
               "MinQuantity": 1
             },
             {
@@ -3696,7 +3696,7 @@
               ],
               "MaxQuality": "Tier6",
               "MaxQuantity": 1,
-              "MinQuality": "Tier1",
+              "MinQuality": "Tier5",
               "MinQuantity": 1
             },
             {
@@ -3710,13 +3710,167 @@
               ],
               "MaxQuality": "Tier6",
               "MaxQuantity": 1,
-              "MinQuality": "Tier4",
+              "MinQuality": "Tier5",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.1,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_ArgentavisSaddle_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier5",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.1,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_BaryonyxSaddle_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier5",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.1,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_ToadSaddle_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier5",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.1,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_CarnoSaddle_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier5",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.1,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_IguanodonSaddle_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier5",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.1,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_KaprosuchusSaddle_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier5",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.1,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_MantaSaddle_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier5",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.1,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_MegalodonSaddle_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier5",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.1,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_SaberSaddle_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier5",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.1,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_StegoSaddle_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier5",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.1,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_TrikeSaddle_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier5",
               "MinQuantity": 1
             }
           ],
           "Label": "Saddles",
-          "MaxNumItems": 2,
-          "MinNumItems": 1,
+          "MaxNumItems": 4,
+          "MinNumItems": 3,
           "NumItemsPower": 1.0,
           "SetWeight": 0.5
         },
@@ -3724,7 +3878,7 @@
           "bItemsRandomWithoutReplacement": true,
           "ItemEntries": [
             {
-              "ChanceToBeBlueprintOverride": 0.1,
+              "ChanceToBeBlueprintOverride": 0.0,
               "EntryWeight": 1.0,
               "Items": [
                 {
@@ -3752,7 +3906,7 @@
               "MinQuantity": 10
             },
             {
-              "ChanceToBeBlueprintOverride": 0.1,
+              "ChanceToBeBlueprintOverride": 0.0,
               "EntryWeight": 1.0,
               "Items": [
                 {
@@ -3766,7 +3920,7 @@
               "MinQuantity": 1
             },
             {
-              "ChanceToBeBlueprintOverride": 0.1,
+              "ChanceToBeBlueprintOverride": 0.0,
               "EntryWeight": 1.0,
               "Items": [
                 {
@@ -3781,8 +3935,8 @@
             }
           ],
           "Label": "Mammoth Minigame",
-          "MaxNumItems": 3,
-          "MinNumItems": 3,
+          "MaxNumItems": 4,
+          "MinNumItems": 4,
           "NumItemsPower": 1.0,
           "SetWeight": 0.5
         }
@@ -3880,7 +4034,7 @@
           "MaxNumItems": 5,
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.1
+          "SetWeight": 0.25
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -3946,7 +4100,7 @@
           "MaxNumItems": 4,
           "MinNumItems": 3,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.2
         },
         {
           "bItemsRandomWithoutReplacement": false,
@@ -3984,7 +4138,7 @@
           "MaxNumItems": 3,
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.2
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -4022,7 +4176,7 @@
           "MaxNumItems": 2,
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.19
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -4074,7 +4228,7 @@
           "MaxNumItems": 3,
           "MinNumItems": 5,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.4
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -4109,7 +4263,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.38,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Obsidian_C",
@@ -4137,21 +4291,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_Fertilizer_Compost_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 60,
-              "MinQuality": "Tier1",
-              "MinQuantity": 30
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.38,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Metal_C",
@@ -4165,7 +4305,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.38,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Chitin_C",
@@ -4179,7 +4319,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.38,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Crystal_C",
@@ -4193,7 +4333,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.38,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Hide_C",
@@ -4207,7 +4347,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.38,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Keratin_C",
@@ -4221,7 +4361,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.38,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Oil_C",
@@ -4235,7 +4375,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.38,
               "Items": [
                 {
                   "Class": "PrimalItemResource_RareMushroom_C",
@@ -4249,7 +4389,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.38,
               "Items": [
                 {
                   "Class": "PrimalItemResource_RareFlower_C",
@@ -4263,7 +4403,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.38,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Sap_C",
@@ -4277,7 +4417,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
+              "EntryWeight": 0.38,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Pelt_C",
@@ -4292,173 +4432,9 @@
           ],
           "Label": "Materials",
           "MaxNumItems": 6,
-          "MinNumItems": 4,
+          "MinNumItems": 5,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.6
-        },
-        {
-          "bItemsRandomWithoutReplacement": true,
-          "ItemEntries": [
-            {
-              "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_ArgentavisSaddle_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_BaryonyxSaddle_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_ToadSaddle_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_CarnoSaddle_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_IguanodonSaddle_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_KaprosuchusSaddle_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_MegalodonSaddle_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_MantaSaddle_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_SaberSaddle_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_StegoSaddle_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_TrikeSaddle_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            }
-          ],
-          "Label": "Saddles",
-          "MaxNumItems": 3,
-          "MinNumItems": 1,
-          "NumItemsPower": 1.0,
-          "SetWeight": 0.5
+          "SetWeight": 0.65
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -4689,8 +4665,8 @@
             }
           ],
           "Label": "Consumables",
-          "MaxNumItems": 7,
-          "MinNumItems": 3,
+          "MaxNumItems": 4,
+          "MinNumItems": 2,
           "NumItemsPower": 1.0,
           "SetWeight": 0.2
         }
