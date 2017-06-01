@@ -41,8 +41,8 @@ __Bonus Beacons__
 
 | Type      |  Weight  |  # of Items |
 | ---       |  ---:    |  ---
-| Kibble    |  40      |  1-2 types, 5-10 of each
+| Kibble    |  60      |  1-2 types, 5-10 of each
 | Knockout  |  30      |  whole set, level-specific quantity
-| Saddles   |  30      |  1-2 types, one of each
+| Saddles   |  20      |  1-2 types, one of each
 | Minigame  |  5       |  whole set
 | Troll     |  1       |  surprise :)
