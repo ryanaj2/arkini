@@ -23,7 +23,7 @@
 #### Mating Boosts
 
 * Cuddle Timers: 18-24hrs
-* Baby Mature Speed: x5
+* Baby Mature Speed: x2.5
 * Mating Interval: 1/2
 * Egg Hatch Speed: Normal
 * Egg Lay Frequency: x2
