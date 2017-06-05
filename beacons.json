@@ -702,7 +702,7 @@
           "MaxNumItems": 4,
           "MinNumItems": 3,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.3
+          "SetWeight": 0.4
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -1043,9 +1043,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 10,
+              "MaxQuantity": 15,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 10
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -5764,7 +5764,7 @@
           "MaxNumItems": 4,
           "MinNumItems": 3,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.4
+          "SetWeight": 0.3
         },
         {
           "bItemsRandomWithoutReplacement": false,
@@ -8568,7 +8568,7 @@
               "MinQuantity": 600
             },
             {
-              "ChanceToBeBlueprintOverride": 0.1,
+              "ChanceToBeBlueprintOverride": 0.0,
               "EntryWeight": 1.0,
               "Items": [
                 {
@@ -9022,7 +9022,7 @@
               "MinQuantity": 1
             },
             {
-              "ChanceToBeBlueprintOverride": 0.1,
+              "ChanceToBeBlueprintOverride": 0.0,
               "EntryWeight": 1.0,
               "Items": [
                 {
@@ -9036,7 +9036,7 @@
               "MinQuantity": 10
             },
             {
-              "ChanceToBeBlueprintOverride": 0.1,
+              "ChanceToBeBlueprintOverride": 0.0,
               "EntryWeight": 1.0,
               "Items": [
                 {
@@ -9050,7 +9050,7 @@
               "MinQuantity": 1
             },
             {
-              "ChanceToBeBlueprintOverride": 0.1,
+              "ChanceToBeBlueprintOverride": 0.0,
               "EntryWeight": 1.0,
               "Items": [
                 {
