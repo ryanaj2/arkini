@@ -3592,7 +3592,7 @@
           ],
           "Label": "Armor",
           "MaxNumItems": 5,
-          "MinNumItems": 2,
+          "MinNumItems": 3,
           "NumItemsPower": 1.0,
           "SetWeight": 0.25
         },
@@ -3699,44 +3699,6 @@
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
           "SetWeight": 0.2
-        },
-        {
-          "bItemsRandomWithoutReplacement": true,
-          "ItemEntries": [
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItem_WeaponSword_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier4",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier4",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_MetalShield_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier4",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier4",
-              "MinQuantity": 1
-            }
-          ],
-          "Label": "SwordShield",
-          "MaxNumItems": 2,
-          "MinNumItems": 2,
-          "NumItemsPower": 1.0,
-          "SetWeight": 0.19
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -4004,12 +3966,12 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemConsumable_Soup_BattleTartare_C",
+                  "Class": "PrimalItemConsumable_Egg_Allo_C",
                   "Weight": 1.0
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 1,
               "MinQuality": "Tier1",
               "MinQuantity": 1
             },
@@ -4018,12 +3980,12 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemConsumable_BloodPack_C",
+                  "Class": "PrimalItemConsumable_Egg_Ankylo_C",
                   "Weight": 1.0
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 1,
               "MinQuality": "Tier1",
               "MinQuantity": 1
             },
@@ -4032,12 +3994,12 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemConsumable_TheHorn_C",
+                  "Class": "PrimalItemConsumable_Egg_Spider_C",
                   "Weight": 1.0
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 1,
               "MinQuality": "Tier1",
               "MinQuantity": 1
             },
@@ -4046,12 +4008,12 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemConsumable_BugRepellant_C",
+                  "Class": "PrimalItemConsumable_Egg_Archa_C",
                   "Weight": 1.0
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 1,
               "MinQuality": "Tier1",
               "MinQuantity": 1
             },
@@ -4060,12 +4022,12 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemConsumable_CactusBuffSoup_C",
+                  "Class": "PrimalItemConsumable_Egg_Argent_C",
                   "Weight": 1.0
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 1,
               "MinQuality": "Tier1",
               "MinQuantity": 1
             },
@@ -4074,12 +4036,12 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemConsumable_CactusSap_C",
+                  "Class": "PrimalItemConsumable_Egg_Bronto_C",
                   "Weight": 1.0
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 1,
               "MinQuality": "Tier1",
               "MinQuantity": 1
             },
@@ -4088,12 +4050,12 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemConsumable_Soup_CalienSoup_C",
+                  "Class": "PrimalItemConsumable_Egg_Camelsaurus_C",
                   "Weight": 1.0
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 1,
               "MinQuality": "Tier1",
               "MinQuantity": 1
             },
@@ -4102,12 +4064,12 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemConsumable_Soup_EnduroStew_C",
+                  "Class": "PrimalItemConsumable_Egg_Carno_C",
                   "Weight": 1.0
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 1,
               "MinQuality": "Tier1",
               "MinQuantity": 1
             },
@@ -4116,12 +4078,12 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemConsumable_StaminaSoup_C",
+                  "Class": "PrimalItemArmor_ChitinPants_C",
                   "Weight": 1.0
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 1,
               "MinQuality": "Tier1",
               "MinQuantity": 1
             },
@@ -4130,12 +4092,12 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemConsumable_Soup_FocalChili_C",
+                  "Class": "PrimalItemConsumable_Veggie_Citronal_C",
                   "Weight": 1.0
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 1,
               "MinQuality": "Tier1",
               "MinQuantity": 1
             },
@@ -4144,12 +4106,12 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemConsumable_Soup_FriaCurry_C",
+                  "Class": "PrimalItemConsumable_Egg_Dilo_C",
                   "Weight": 1.0
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 1,
               "MinQuality": "Tier1",
               "MinQuantity": 1
             },
@@ -4158,12 +4120,12 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemConsumable_Soup_LazarusChowder_C",
+                  "Class": "PrimalItemConsumable_Egg_Dimetrodon_C",
                   "Weight": 1.0
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 1,
               "MinQuality": "Tier1",
               "MinQuantity": 1
             },
@@ -4172,12 +4134,236 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemConsumable_CureLow_C",
+                  "Class": "PrimalItemConsumable_Egg_Dimorph_C",
                   "Weight": 1.0
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Diplo_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Dodo_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_MetalPants_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_FurPants_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Galli_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Gigant_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Hesperonis_Golden_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Hesperonis_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Ichthyornis_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Iguanodon_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Kairuku_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Kentro_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Lystro_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Mantis_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Megalania_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Megalosaurus_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
               "MinQuality": "Tier1",
               "MinQuantity": 1
             },
@@ -4191,7 +4377,7 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 1,
               "MinQuality": "Tier1",
               "MinQuantity": 1
             },
@@ -4200,12 +4386,12 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemConsumable_Soup_ShadowSteak_C",
+                  "Class": "PrimalItemConsumable_Egg_Moth_C",
                   "Weight": 1.0
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 1,
               "MinQuality": "Tier1",
               "MinQuantity": 1
             },
@@ -4214,21 +4400,329 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItemConsumable_SweetVeggieCake_C",
+                  "Class": "PrimalItemConsumable_Egg_Oviraptor_C",
                   "Weight": 1.0
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Pachy_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Pachyrhino_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Para_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Pegomastax_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Pela_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Ptero_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Scorpion_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Quetz_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Raptor_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Rex_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Sarco_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Spino_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Stego_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Tapejara_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Terrorbird_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Therizino_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_SpineyLizard_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Boa_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Trike_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Troodon_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Turtle_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Vulture_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
               "MinQuality": "Tier1",
               "MinQuantity": 1
             }
           ],
-          "Label": "Consumables",
-          "MaxNumItems": 4,
-          "MinNumItems": 2,
+          "Label": "Random Eggs",
+          "MaxNumItems": 24,
+          "MinNumItems": 12,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.2
+          "SetWeight": 0.7
         }
       ],
       "Kind": "Standard",
@@ -5435,6 +5929,772 @@
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
           "SetWeight": 0.3
+        },
+        {
+          "bItemsRandomWithoutReplacement": true,
+          "ItemEntries": [
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Allo_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Ankylo_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Spider_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Archa_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Argent_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Bronto_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Camelsaurus_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Carno_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_ChitinPants_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Veggie_Citronal_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Dilo_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Dimetrodon_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Dimorph_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Diplo_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Dodo_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_MetalPants_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_FurPants_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Galli_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Gigant_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Hesperonis_Golden_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Hesperonis_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Ichthyornis_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Iguanodon_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Kairuku_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Kentro_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Lystro_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Mantis_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Megalania_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Megalosaurus_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Moschops_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Moth_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Oviraptor_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Pachy_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Pachyrhino_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Para_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Pegomastax_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Pela_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Ptero_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Scorpion_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Quetz_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Raptor_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Rex_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Sarco_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Spino_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Stego_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Tapejara_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Terrorbird_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Therizino_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_SpineyLizard_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Boa_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Trike_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Troodon_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Turtle_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Vulture_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            }
+          ],
+          "Label": "Random Eggs",
+          "MaxNumItems": 18,
+          "MinNumItems": 8,
+          "NumItemsPower": 1.0,
+          "SetWeight": 0.7
         }
       ],
       "Kind": "Standard",
@@ -5680,234 +6940,6 @@
       "Availability": 1,
       "bSetsRandomWithoutReplacement": true,
       "ItemSets": [
-        {
-          "bItemsRandomWithoutReplacement": true,
-          "ItemEntries": [
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.1,
-              "Items": [
-                {
-                  "Class": "PrimalItemStructure_Campfire_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.16,
-              "Items": [
-                {
-                  "Class": "PrimalItemResource_Sparkpowder_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 28,
-              "MinQuality": "Tier1",
-              "MinQuantity": 12
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.12,
-              "Items": [
-                {
-                  "Class": "PrimalItemStructure_SleepingBag_Hide_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 2,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.1,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_RawMeat_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 20,
-              "MinQuality": "Tier1",
-              "MinQuantity": 15
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.13,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_CookedMeat_Jerky_C",
-                  "Weight": 0.5
-                },
-                {
-                  "Class": "PrimalItemConsumable_CookedMeat_C",
-                  "Weight": 0.5
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 10,
-              "MinQuality": "Tier1",
-              "MinQuantity": 5
-            }
-          ],
-          "Label": "Camp",
-          "MaxNumItems": 3,
-          "MinNumItems": 2,
-          "NumItemsPower": 1.0,
-          "SetWeight": 0.31
-        },
-        {
-          "bItemsRandomWithoutReplacement": true,
-          "ItemEntries": [
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.7,
-              "Items": [
-                {
-                  "Class": "PrimalItem_WeaponFlareGun_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 5,
-              "MinQuality": "Tier1",
-              "MinQuantity": 2
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.7,
-              "Items": [
-                {
-                  "Class": "PrimalItem_WeaponBola_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 4,
-              "MinQuality": "Tier1",
-              "MinQuantity": 2
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItem_WeaponSpear_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
-              "MinQuality": "Tier4",
-              "MinQuantity": 2
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.15,
-              "EntryWeight": 0.7,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_HideBoots_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier4",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier3",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.15,
-              "EntryWeight": 0.7,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_HideGloves_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier4",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier3",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.15,
-              "EntryWeight": 0.7,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_HideHelmet_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier4",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier3",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.15,
-              "EntryWeight": 0.7,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_HidePants_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier4",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier3",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.15,
-              "EntryWeight": 0.7,
-              "Items": [
-                {
-                  "Class": "PrimalItemArmor_HideShirt_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier4",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier3",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.1,
-              "EntryWeight": 0.37,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_BloodPack_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItem_BloodExtractor_C",
-                  "Weight": 1.0
-                },
-                {
-                  "Class": "PrimalItemConsumable_Soup_ShadowSteak_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier6",
-              "MaxQuantity": 4,
-              "MinQuality": "Tier1",
-              "MinQuantity": 2
-            }
-          ],
-          "Label": "Combat",
-          "MaxNumItems": 5,
-          "MinNumItems": 3,
-          "NumItemsPower": 1.0,
-          "SetWeight": 0.25
-        },
         {
           "bItemsRandomWithoutReplacement": true,
           "ItemEntries": [
@@ -6165,142 +7197,6 @@
           "MinNumItems": 2,
           "NumItemsPower": 1.0,
           "SetWeight": 0.1
-        },
-        {
-          "bItemsRandomWithoutReplacement": true,
-          "ItemEntries": [
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_BloodPack_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier2",
-              "MaxQuantity": 3,
-              "MinQuality": "Tier1",
-              "MinQuantity": 2
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_BugRepellant_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier2",
-              "MaxQuantity": 3,
-              "MinQuality": "Tier1",
-              "MinQuantity": 2
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_Soup_CalienSoup_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier2",
-              "MaxQuantity": 3,
-              "MinQuality": "Tier1",
-              "MinQuantity": 2
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_CookedMeat_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier2",
-              "MaxQuantity": 30,
-              "MinQuality": "Tier1",
-              "MinQuantity": 10
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_StaminaSoup_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier2",
-              "MaxQuantity": 3,
-              "MinQuality": "Tier1",
-              "MinQuantity": 2
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_Soup_FriaCurry_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier2",
-              "MaxQuantity": 3,
-              "MinQuality": "Tier1",
-              "MinQuantity": 2
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.46,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_CanteenRefill_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier2",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_HealSoup_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier2",
-              "MaxQuantity": 3,
-              "MinQuality": "Tier1",
-              "MinQuantity": 2
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 1.0,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_WaterskinRefill_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier2",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            }
-          ],
-          "Label": "Consumables",
-          "MaxNumItems": 4,
-          "MinNumItems": 2,
-          "NumItemsPower": 1.0,
-          "SetWeight": 0.3
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -6688,7 +7584,773 @@
           "MaxNumItems": 27,
           "MinNumItems": 27,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.2
+          "SetWeight": 0.1
+        },
+        {
+          "bItemsRandomWithoutReplacement": true,
+          "ItemEntries": [
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Allo_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Ankylo_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Spider_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Archa_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Argent_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Bronto_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Camelsaurus_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Carno_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_ChitinPants_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Veggie_Citronal_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Dilo_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Dimetrodon_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Dimorph_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Diplo_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Dodo_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_MetalPants_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemArmor_FurPants_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Galli_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Gigant_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Hesperonis_Golden_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Hesperonis_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Ichthyornis_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Iguanodon_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Kairuku_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Kentro_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Lystro_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Mantis_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Megalania_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Megalosaurus_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Moschops_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Moth_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Oviraptor_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Pachy_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Pachyrhino_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Para_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Pegomastax_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Pela_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Ptero_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Scorpion_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Quetz_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Raptor_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Rex_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Sarco_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Spino_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Stego_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Tapejara_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Terrorbird_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Therizino_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_SpineyLizard_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Boa_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Trike_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Troodon_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Turtle_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            },
+            {
+              "ChanceToBeBlueprintOverride": 0.0,
+              "EntryWeight": 1.0,
+              "Items": [
+                {
+                  "Class": "PrimalItemConsumable_Egg_Vulture_C",
+                  "Weight": 1.0
+                }
+              ],
+              "MaxQuality": "Tier6",
+              "MaxQuantity": 1,
+              "MinQuality": "Tier1",
+              "MinQuantity": 1
+            }
+          ],
+          "Label": "Random Eggs",
+          "MaxNumItems": 10,
+          "MinNumItems": 5,
+          "NumItemsPower": 1.0,
+          "SetWeight": 0.7
         }
       ],
       "Kind": "Standard",
