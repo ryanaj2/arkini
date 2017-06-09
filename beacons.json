@@ -5548,7 +5548,7 @@
           "MaxNumItems": 12,
           "MinNumItems": 12,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.3
+          "SetWeight": 0.31
         },
         {
           "bItemsRandomWithoutReplacement": true,
@@ -6883,9 +6883,9 @@
                 }
               ],
               "MaxQuality": "Tier1",
-              "MaxQuantity": 20,
+              "MaxQuantity": 50,
               "MinQuality": "Tier1",
-              "MinQuantity": 10
+              "MinQuantity": 20
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -6903,7 +6903,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.3,
+              "EntryWeight": 0.05,
               "Items": [
                 {
                   "Class": "PrimalItemResource_Sap_C",
@@ -6917,7 +6917,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.3,
+              "EntryWeight": 0.16,
               "Items": [
                 {
                   "Class": "PrimalItemConsumable_Fertilizer_Compost_C",
@@ -6945,7 +6945,7 @@
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.3,
+              "EntryWeight": 0.15,
               "Items": [
                 {
                   "Class": "PrimalItemResource_RareFlower_C",
@@ -6972,7 +6972,7 @@
               "MinQuantity": 5
             },
             {
-              "ChanceToBeBlueprintOverride": 0.1,
+              "ChanceToBeBlueprintOverride": 0.0,
               "EntryWeight": 1.0,
               "Items": [
                 {
@@ -6981,9 +6981,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 1,
+              "MaxQuantity": 10,
               "MinQuality": "Tier1",
-              "MinQuantity": 1
+              "MinQuantity": 10
             }
           ],
           "Label": "Materials",
@@ -7000,13 +7000,13 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItem_WeaponMetalPick_C",
+                  "Class": "PrimalItem_WeaponMetalHatchet_C",
                   "Weight": 1.0
                 }
               ],
-              "MaxQuality": "Tier2",
+              "MaxQuality": "Tier4",
               "MaxQuantity": 1,
-              "MinQuality": "Tier1",
+              "MinQuality": "Tier3",
               "MinQuantity": 1
             },
             {
@@ -7014,41 +7014,41 @@
               "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItem_WeaponMetalHatchet_C",
+                  "Class": "PrimalItem_WeaponMetalPick_C",
                   "Weight": 1.0
                 }
               ],
-              "MaxQuality": "Tier2",
+              "MaxQuality": "Tier4",
               "MaxQuantity": 1,
-              "MinQuality": "Tier1",
+              "MinQuality": "Tier3",
               "MinQuantity": 1
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.15,
+              "EntryWeight": 1.0,
               "Items": [
                 {
-                  "Class": "PrimalItem_WeaponScissors_C",
+                  "Class": "PrimalItem_WeaponPike_C",
                   "Weight": 1.0
                 }
               ],
-              "MaxQuality": "Tier2",
+              "MaxQuality": "Tier4",
               "MaxQuantity": 1,
-              "MinQuality": "Tier1",
+              "MinQuality": "Tier3",
               "MinQuantity": 1
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.15,
+              "EntryWeight": 0.25,
               "Items": [
                 {
-                  "Class": "PrimalItem_WeaponSickle_C",
+                  "Class": "PrimalItem_WeaponSpyglass_C",
                   "Weight": 1.0
                 }
               ],
-              "MaxQuality": "Tier2",
+              "MaxQuality": "Tier4",
               "MaxQuantity": 1,
-              "MinQuality": "Tier1",
+              "MinQuality": "Tier3",
               "MinQuantity": 1
             }
           ],
@@ -7085,9 +7085,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7099,9 +7099,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7113,9 +7113,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7127,9 +7127,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7141,9 +7141,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7155,9 +7155,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7169,9 +7169,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7183,9 +7183,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7197,9 +7197,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7211,9 +7211,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7225,9 +7225,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7239,9 +7239,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7253,9 +7253,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7267,9 +7267,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7281,9 +7281,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7295,9 +7295,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7309,9 +7309,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7323,9 +7323,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7337,9 +7337,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7351,9 +7351,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7365,9 +7365,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7379,9 +7379,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7393,9 +7393,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7407,9 +7407,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7421,9 +7421,9 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             },
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -7435,16 +7435,16 @@
                 }
               ],
               "MaxQuality": "Tier6",
-              "MaxQuantity": 5,
+              "MaxQuantity": 100,
               "MinQuality": "Tier1",
-              "MinQuantity": 5
+              "MinQuantity": 100
             }
           ],
           "Label": "Dyes",
           "MaxNumItems": 27,
           "MinNumItems": 27,
           "NumItemsPower": 1.0,
-          "SetWeight": 0.1
+          "SetWeight": 0.05
         },
         {
           "bItemsRandomWithoutReplacement": true,
