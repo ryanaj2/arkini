@@ -5,8 +5,8 @@
 
 #### Harvesting Boosts
 
-* Player: x2
-* Node health: x1.5
+* Player: x2.5
+* Node health: x2
 * Dino: x2
 
 #### Stat Boosts
