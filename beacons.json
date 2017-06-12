@@ -2637,7 +2637,7 @@
           "SetWeight": 0.34
         },
         {
-          "bItemsRandomWithoutReplacement": true,
+          "bItemsRandomWithoutReplacement": false,
           "ItemEntries": [
             {
               "ChanceToBeBlueprintOverride": 0.0,
@@ -2669,8 +2669,8 @@
             }
           ],
           "Label": "Dino Tracker",
-          "MaxNumItems": 3,
-          "MinNumItems": 1,
+          "MaxNumItems": 2,
+          "MinNumItems": 2,
           "NumItemsPower": 1.0,
           "SetWeight": 0.4
         }
@@ -8130,146 +8130,6 @@
       "Availability": 1,
       "bSetsRandomWithoutReplacement": true,
       "ItemSets": [
-        {
-          "bItemsRandomWithoutReplacement": true,
-          "ItemEntries": [
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.13,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_HealSoup_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 7,
-              "MinQuality": "Tier1",
-              "MinQuantity": 2
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.1,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_StaminaSoup_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 7,
-              "MinQuality": "Tier1",
-              "MinQuantity": 2
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.12,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_Soup_FriaCurry_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 3,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.12,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_Soup_CalienSoup_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 3,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.12,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_Soup_LazarusChowder_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 3,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.12,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_Soup_EnduroStew_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 3,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.12,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_Soup_ShadowSteak_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 3,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.12,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_Soup_BattleTartare_C",
-                  "Weight": 0.5
-                },
-                {
-                  "Class": "PrimalItemConsumableRespecSoup_C",
-                  "Weight": 0.5
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 1,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            },
-            {
-              "ChanceToBeBlueprintOverride": 0.0,
-              "EntryWeight": 0.05,
-              "Items": [
-                {
-                  "Class": "PrimalItemConsumable_BugRepellant_C",
-                  "Weight": 1.0
-                }
-              ],
-              "MaxQuality": "Tier1",
-              "MaxQuantity": 3,
-              "MinQuality": "Tier1",
-              "MinQuantity": 1
-            }
-          ],
-          "Label": "Consumables",
-          "MaxNumItems": 3,
-          "MinNumItems": 2,
-          "NumItemsPower": 1.0,
-          "SetWeight": 0.3
-        },
         {
           "bItemsRandomWithoutReplacement": true,
           "ItemEntries": [
