@@ -1,8 +1,14 @@
 ## Beacons
 
-We want every beacon to be worth the risk. Additionally, even high level players should find mostly useful things, even in low-level beacons.
+_making changes:_
+1. Edit custom.beacons with [beacon editor](https://thezaz.com/beacon/)
+2. Export to beacons.ini
+3. Run make.sh or make.bat
+4. Commit changes to repo
 
 #### Beacon Setup
+
+We want every beacon to be worth the risk. Additionally, even high level players should find mostly useful things, even in low-level beacons.
 
 Each normal beacon will have either useful equipment or materials. Each bonus beacon (with a ring around it) will have items to help with taming creatures.
 
